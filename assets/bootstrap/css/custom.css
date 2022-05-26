@@ -1,0 +1,71 @@
+.button_center{
+    text-align: center;
+    margin-left: 400px;
+    border-radius: 30px;
+}
+.button_right{
+    border-radius: 30px;
+}
+.navbar-nav{
+    margin-left: 250px;
+    margin-right: unset;
+}
+.navbarr {
+    background-color: #5063ac;
+    margin-right: 40%;
+    margin-left: unset;
+}
+.baker{
+    color: #aca732;
+}
+.weare{
+    color: white;
+}
+.heading_one{
+    margin-left: 5%;
+}
+.navbar-nav{
+    margin-left: 40%;
+    margin-right: 5%;
+}
+.mine{
+    margin-left: 45%;
+}
+.btn_alpha{
+    alignment: center;
+    margin-right: 25%;
+    margin-left: 20%;
+
+}
+.omega{
+    background-color: #806fac;
+}
+.btn_two{
+    margin-left: 45%;
+}
+.working{
+    background-color: #ac9840;
+}
+body{
+    background-color: #a38cac;
+}
+.think{
+    width: 300px;
+
+}
+.go{
+    width: 150px;
+}
+
+.face{
+    color: white;
+}
+.dian{
+    color: white;
+}
+.chemu{
+    color: #aaac1d;
+}
+.new{
+    background-image: url("../../images/laptop 2.jpeg");
+}
